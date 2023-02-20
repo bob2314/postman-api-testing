@@ -1,7 +1,6 @@
 # Postman API Testing
 
-A brief description of what this project does and who it's for
-
+Testing spec imports, tests, and monitors
 
 ## API Reference
 
